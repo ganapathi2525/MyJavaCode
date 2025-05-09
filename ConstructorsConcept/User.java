@@ -14,8 +14,8 @@ public class User {
 	// FN, LN
 	// FN, LN, emailId
 	// FN
-	// FN, LN, passowrd, phone
-	// FN,LN,emailid, phone, passowrd, city
+	// FN, LN, password, phone
+	// FN,LN,emailid, phone, password, city
 
 	// method: int taxCal(name) -- buss logic
 	// const: no buss logic -- only for object creation - restriction of object

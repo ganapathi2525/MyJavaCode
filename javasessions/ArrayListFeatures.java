@@ -87,15 +87,7 @@ public class ArrayListFeatures {
 		System.out.println(myList.size());
 		System.out.println(myList);
 		
-		
 
-
-		
-
-		
-		
-		
-		
 		
 		
 		
